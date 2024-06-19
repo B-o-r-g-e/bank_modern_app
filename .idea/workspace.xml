@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8451fda-10b5-4acc-b854-1e400f89a2be" name="Changes" comment="." />
+    <list default="true" id="e8451fda-10b5-4acc-b854-1e400f89a2be" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/bank_modern_app/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bank_modern_app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/bank_modern_app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bank_modern_app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/bank_modern_app/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +41,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore_missing_gitignore": "true",
     "javascript.nodejs.core.library.configured.version": "18.20.1",
     "javascript.nodejs.core.library.typings.version": "18.19.36",
@@ -76,7 +81,7 @@
       <updated>1718723372845</updated>
       <workItem from="1718723374019" duration="2005000" />
       <workItem from="1718726264282" duration="2758000" />
-      <workItem from="1718791859226" duration="742000" />
+      <workItem from="1718791859226" duration="1674000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
