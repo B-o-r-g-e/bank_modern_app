@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8451fda-10b5-4acc-b854-1e400f89a2be" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/bank_modern_app/tailwind.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_modern_app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/bank_modern_app/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_modern_app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/bank_modern_app/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="e8451fda-10b5-4acc-b854-1e400f89a2be" name="Changes" comment="." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +76,7 @@
       <updated>1718723372845</updated>
       <workItem from="1718723374019" duration="2005000" />
       <workItem from="1718726264282" duration="2758000" />
-      <workItem from="1718791859226" duration="1674000" />
+      <workItem from="1718791859226" duration="1977000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -115,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718790594457</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=".">
+      <option name="closed" value="true" />
+      <created>1718793778889</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718793778889</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
