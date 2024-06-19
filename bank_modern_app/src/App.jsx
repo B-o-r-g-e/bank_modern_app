@@ -1,6 +1,6 @@
 const App = () => (
     <div className="bg-primary w-full overflow-hidden">
-        <h1 className='text-white'>Hello, World</h1>
+        <div className=''></div>
     </div>
 )
 
