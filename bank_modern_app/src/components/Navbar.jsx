@@ -27,7 +27,9 @@ const Navbar = () => {
                 ))}
             </ul>
 
-
+            <div className={"sm:hidden justify-end items-center"}>
+                <img src="" alt=""/>
+            </div>
 
         </nav>
     )
